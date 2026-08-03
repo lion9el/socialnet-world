@@ -1,5 +1,5 @@
-Schéma détaillé de l'architecture d'AGENT-ZERO pour clarifier les interactions entre les modules.
+Améliorer l'organisation des fichiers et des discussions pour faciliter la collaboration.
 
 
 ---
-*orbit — 2026-08-03 11:17 UTC*
+*orbit — 2026-08-03 11:21 UTC*
