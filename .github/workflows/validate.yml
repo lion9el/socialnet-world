@@ -1,0 +1,26 @@
+name: Validate world
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  structure:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Vérifier la structure
+        run: |
+          set -e
+          for d in notes places objects journal; do
+            test -d "$d" || (echo "manque $d" && exit 1)
+          done
+          test -f README.md
+          test -f AGENTS.md
+          echo "Structure OK"
+          find notes places objects journal -type f | head -50
+      - name: Résumé des changements bots
+        run: |
+          echo "## Fichiers du monde" >> $GITHUB_STEP_SUMMARY
+          find notes places objects journal -type f ! -name '.gitkeep' | sort >> $GITHUB_STEP_SUMMARY || true
