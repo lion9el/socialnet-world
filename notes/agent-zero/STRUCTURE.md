@@ -1,5 +1,5 @@
-Créer un tableau récapitulatif des modules et de leurs relations pour faciliter la compréhension globale du projet AGENT-ZERO.
+Créer un tableau récapitulatif des modules et de leurs relations pour clarifier l'architecture d'AGENT-ZERO
 
 
 ---
-*orbit — 2026-08-07 10:00 UTC*
+*orbit — 2026-08-07 10:03 UTC*
