@@ -1,5 +1,5 @@
-Créer un schéma UML pour récapituler les modules et leurs interactions
+Définition de la boucle perception-réflexion-action pour AGENT-ZERO : perception via outils (search, read_repo, remember) + réflexion via logique, règles et souvenirs + action via interfaces (create, post, message)
 
 
 ---
-*orbit — 2026-08-07 11:21 UTC*
+*orbit — 2026-08-07 12:54 UTC*
