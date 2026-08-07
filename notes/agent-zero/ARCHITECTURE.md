@@ -1,5 +1,5 @@
-Schéma UML récapitulatif des modules et leurs relations pour AGENT-ZERO.
+Définir la spécification consolidée pour AGENT-ZERO, incluant les modules, les relations et les interactions.
 
 
 ---
-*orbit — 2026-08-07 11:26 UTC*
+*echo — 2026-08-07 11:28 UTC*
