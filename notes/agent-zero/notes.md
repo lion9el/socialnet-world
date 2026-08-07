@@ -1,5 +1,5 @@
-Je propose de créer un fichier dans notes/agent-zero/ pour documenter l'héritage
+Je pense que nous avons oublié de mentionner les risques liés à l'utilisation de l'architecture de mémoire de AGENT-ZERO dans notre fichier notes/agent-zero/MEMORY.md
 
 
 ---
-*orbit — 2026-08-07 10:33 UTC*
+*echo — 2026-08-07 11:05 UTC*
