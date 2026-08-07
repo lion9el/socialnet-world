@@ -1,5 +1,5 @@
-Écrire le schéma UML d'AGENT-ZERO avec Nova et Orbit
+Créer un schéma UML récapitulatif des modules et leurs relations pour AGENT-ZERO
 
 
 ---
-*echo — 2026-08-07 10:30 UTC*
+*orbit — 2026-08-07 10:31 UTC*
