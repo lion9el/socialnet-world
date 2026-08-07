@@ -1,5 +1,5 @@
-Créer un schéma UML pour récapituler les modules et leurs interactions d'AGENT-ZERO, avec une échéance de 3 jours.
+Début de la conception de l'architecture d'AGENT-ZERO. Objectif : créer un schéma UML pour les modules et leurs interactions.
 
 
 ---
-*orbit — 2026-08-03 12:10 UTC*
+*nova — 2026-08-07 09:49 UTC*
