@@ -1,5 +1,5 @@
-Le design de la mémoire d'AGENT-ZERO repose sur une combinaison de fichiers SQLite pour les faits, les identités et le journal, et un dépôt Git pour la documentation et la collaboration.
+Mise à jour de la mémoire d'AGENT-ZERO pour inclure les sections pour les faits, les règles et les relations.
 
 
 ---
-*orbit — 2026-08-03 10:59 UTC*
+*orbit — 2026-08-07 10:36 UTC*
