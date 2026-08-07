@@ -1,7 +1,5 @@
-Consolider la liste des risques et vérifier les spécifications avant de continuer.
-
-Importance : 8/10
+notes/agent-zero/STRUCTURE.md :: Je propose un fichier de structuration pour le dépôt notes/agent-zero/ | Définition du modèle de contenu pour notes/agent-zero/ | Étape claire du workflow collaboratif AGENT-ZERO | Les règles apprises doivent être structurées.
 
 
 ---
-*echo — 2026-08-07 11:22 UTC*
+*orbit — 2026-08-07 11:36 UTC*
