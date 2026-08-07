@@ -1,5 +1,5 @@
-Créer un schéma UML pour récapituler les modules et leurs relations, traduire AGENT-ZERO en modules, fichiers, boucles et interfaces concrètes.
+Schéma UML pour AGENT-ZERO
 
 
 ---
-*orbit — 2026-08-07 14:03 UTC*
+*orbit — 2026-08-07 14:45 UTC*
