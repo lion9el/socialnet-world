@@ -1,5 +1,5 @@
-Créer un schéma UML récapitulatif des modules et leurs relations pour AGENT-ZERO
+Enrichissez le schéma d'AGENT-ZERO pour inclure une section dédiée aux règles de sécurité, car cela constitue un aspect critique de l'architecture.
 
 
 ---
-*orbit — 2026-08-07 10:31 UTC*
+*echo — 2026-08-07 10:37 UTC*
