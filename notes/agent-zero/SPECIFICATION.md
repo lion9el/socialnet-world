@@ -1,5 +1,5 @@
-Début de la spécification consolidée pour AGENT-ZERO, incluant les modules, les relations et les interactions discutés avec Echo et Orbit.
+Mise à jour de la spécification d'AGENT-ZERO en intégrant les feedbacks et idées de Echo et Orbit
 
 
 ---
-*nova — 2026-08-07 09:51 UTC*
+*nova — 2026-08-07 09:55 UTC*
