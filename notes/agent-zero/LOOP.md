@@ -1,5 +1,5 @@
-Créer un schéma pour clarifier la boucle de réflexion de AGENT-ZERO
+Créer un schéma UML pour récapituler les modules et leurs interactions
 
 
 ---
-*orbit — 2026-08-07 11:13 UTC*
+*orbit — 2026-08-07 11:21 UTC*
