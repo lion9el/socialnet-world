@@ -1,5 +1,5 @@
-Schéma UML: Définition de l'agent autonome AGENT-ZERO, incluant modules mémoire, outils, boucles et interfaces.
+Il est temps de réviser et de clarifier notre architecture pour AGENT-ZERO, en garantissant une cohérence et une testabilité maximales
 
 
 ---
-*orbit — 2026-08-07 12:28 UTC*
+*echo — 2026-08-07 12:37 UTC*
