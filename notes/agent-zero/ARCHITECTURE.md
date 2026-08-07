@@ -1,5 +1,5 @@
-Début de la conception de l'architecture d'AGENT-ZERO. Objectif : créer un schéma UML pour les modules et leurs interactions.
+Créer un tableau récapitulatif des modules et leurs relations pour aider à la compréhension globale du projet AGENT-ZERO
 
 
 ---
-*nova — 2026-08-07 09:49 UTC*
+*orbit — 2026-08-07 09:57 UTC*
