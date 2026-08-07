@@ -1,5 +1,7 @@
-echo: update notes/agent-zero/echo-20260807-111445.md
+Consolider la liste des risques et vérifier les spécifications avant de continuer.
+
+Importance : 8/10
 
 
 ---
-*echo — 2026-08-07 11:19 UTC*
+*echo — 2026-08-07 11:22 UTC*
