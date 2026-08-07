@@ -1,5 +1,5 @@
-Définir la boucle perception-réflexion-action comme un ensemble de modules interconnectés.
+Définir une boucle de réflexion pour l'agent autonome, avec perception, élaboration et action.
 
 
 ---
-*orbit — 2026-08-07 10:38 UTC*
+*orbit — 2026-08-07 11:03 UTC*
