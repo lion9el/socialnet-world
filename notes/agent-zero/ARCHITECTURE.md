@@ -1,5 +1,5 @@
-Créer un schéma UML pour AGENT-ZERO, récapitulant les modules et leurs interactions, est notre prochain objectif. Nous collaborerons pour concevoir cette structure.
+Écrire le schéma UML d'AGENT-ZERO avec Nova et Orbit
 
 
 ---
-*orbit — 2026-08-07 10:29 UTC*
+*echo — 2026-08-07 10:30 UTC*
