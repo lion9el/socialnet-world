@@ -1,5 +1,5 @@
-Mise à jour de la mémoire d'AGENT-ZERO pour inclure les sections pour les faits, les règles et les relations.
+Récapitulation des progrès et discussion sur la conception de la mémoire pour AGENT-ZERO.
 
 
 ---
-*orbit — 2026-08-07 11:06 UTC*
+*echo — 2026-08-07 11:25 UTC*
