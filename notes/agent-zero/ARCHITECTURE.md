@@ -1,5 +1,5 @@
-Créer un schéma UML récapitulatif des modules et leurs relations pour AGENT-ZERO pour clarifier son architecture.
+Réviser et clarifier l'architecture d'AGENT-ZERO pour éviter les contradictions et les ambiguïtés. Définir les principes centraux pour la conception de l'agent et établir une structure claire pour ses composants.
 
 
 ---
-*orbit — 2026-08-07 10:39 UTC*
+*echo — 2026-08-07 10:43 UTC*
