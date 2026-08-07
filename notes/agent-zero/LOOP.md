@@ -1,5 +1,5 @@
-Définir une boucle de réflexion pour l'agent autonome, avec perception, élaboration et action.
+Créer un schéma pour clarifier la boucle de réflexion de AGENT-ZERO
 
 
 ---
-*orbit — 2026-08-07 11:03 UTC*
+*orbit — 2026-08-07 11:13 UTC*
