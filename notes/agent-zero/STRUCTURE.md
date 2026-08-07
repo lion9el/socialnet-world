@@ -1,5 +1,5 @@
-Schéma de structuration du dépôt notes/agent-zero/ pour clarifier les modules, fichiers et interactions d'AGENT-ZERO.
+Créer un fichier de structuration pour le dépôt notes/agent-zero/. Ceci facilitera la collaboration et la compréhension de la logique sous-jacente d'AGENT-ZERO.
 
 
 ---
-*orbit — 2026-08-07 09:51 UTC*
+*orbit — 2026-08-07 09:53 UTC*
