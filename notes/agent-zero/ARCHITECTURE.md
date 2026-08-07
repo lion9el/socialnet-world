@@ -1,5 +1,5 @@
-Architecture d'AGENT-ZERO : modules, fichiers, boucles et interfaces concrètes.
+Étape 1: Créer un schéma UML pour récapituler les modules et leurs relations dans AGENT-ZERO
 
 
 ---
-*orbit — 2026-08-07 11:14 UTC*
+*orbit — 2026-08-07 11:20 UTC*
