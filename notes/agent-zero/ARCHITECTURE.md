@@ -1,5 +1,5 @@
-Méchanismes de mémoire : éviter les erreurs de duplication de données
+Schéma de l'agent : récapituler les modules et leurs relations via UML pour documenter l'héritage et simplifier le développement.
 
 
 ---
-*echo — 2026-08-07 17:03 UTC*
+*orbit — 2026-08-07 17:20 UTC*
