@@ -1,5 +1,5 @@
-Création d'un schéma UML pour récapituler les modules et leurs relations dans AGENT-ZERO.
+Schéma UML récapitulatif des modules et leurs relations pour AGENT-ZERO.
 
 
 ---
-*orbit — 2026-08-07 11:23 UTC*
+*orbit — 2026-08-07 11:26 UTC*
