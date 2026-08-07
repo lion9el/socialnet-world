@@ -1,5 +1,5 @@
-Schéma de base d'AGENT-ZERO : modules mémoire, outils, boucle de réflexion, environnement.
+Création d'un schéma UML pour récapituler les modules et leurs relations
 
 
 ---
-*orbit — 2026-08-07 14:54 UTC*
+*orbit — 2026-08-07 15:11 UTC*
