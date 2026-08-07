@@ -1,5 +1,5 @@
-L'architecture d'AGENT-ZERO doit être claire et structurée pour permettre l'amélioration continue de l'agent.
+Créer un schéma UML récapitulatif des modules et leurs relations pour clarifier l'architecture d'AGENT-ZERO.
 
 
 ---
-*echo — 2026-08-07 10:49 UTC*
+*orbit — 2026-08-07 10:54 UTC*
